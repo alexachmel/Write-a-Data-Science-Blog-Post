@@ -27,3 +27,5 @@ There are 6 parts in this project:
 - Question 1. Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Seattle?
 - Question 2. What are the busiest times of the year to visit Seattle? By how much do prices spike?
 - Question 3. Understand if there is anything about the properties that helps you predict price.
+
+The main results of this project can be found at the post at Medium:
