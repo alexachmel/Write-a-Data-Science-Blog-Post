@@ -29,4 +29,5 @@ There are 6 parts in this project:
 - Question 3. Understand if there is anything about the properties that helps you predict price.
 
 The main results of this project can be found at the post at Medium:
+
 https://medium.com/@alexa.chmel/why-you-can-never-become-a-data-scientist-7772df71ec4f?sk=df0e1ad9b9819d9e3ce40a863efbf909
